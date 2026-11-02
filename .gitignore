@@ -7,3 +7,7 @@ dist/
 web-build/
 .DS_Store
 *.log
+
+.claude/
+.vscode/
+AGENTS.md
